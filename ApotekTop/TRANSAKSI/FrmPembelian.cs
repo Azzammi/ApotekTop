@@ -458,7 +458,7 @@ namespace ApotekTop.TRANSAKSI
                 Pengaturan();
             }
         }
-
+               
         private void tambahKeyPress(object sender, KeyEventArgs e)
         {
             if(e.KeyData == Keys.Enter)

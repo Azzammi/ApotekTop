@@ -16,5 +16,10 @@ namespace ApotekTop
         {
             InitializeComponent();
         }
+
+        private void FrmHargaJual_List_Load(object sender, EventArgs e)
+        {
+
+        }
     }
 }

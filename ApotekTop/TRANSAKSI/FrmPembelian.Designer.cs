@@ -836,7 +836,6 @@
             this.kdSuppTXT.Size = new System.Drawing.Size(237, 25);
             this.kdSuppTXT.TabIndex = 2;
             this.kdSuppTXT.Text = "test";
-       
             // 
             // kdObatTXT
             // 

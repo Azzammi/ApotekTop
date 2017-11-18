@@ -142,5 +142,10 @@ namespace ApotekTop
             this.processLbl.Text = e.UserState.ToString();
             this.percentageLbl.Text = e.ProgressPercentage.ToString() + " %";
         }
+
+        private void FrmObat_List_Load(object sender, EventArgs e)
+        {
+
+        }
     }
 }

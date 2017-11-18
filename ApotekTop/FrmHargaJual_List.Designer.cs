@@ -214,6 +214,7 @@
             this.Controls.Add(this.toolStrip1);
             this.Name = "FrmHargaJual_List";
             this.Text = "FrmHarga_jual";
+            this.Load += new System.EventHandler(this.FrmHargaJual_List_Load);
             this.toolStrip2.ResumeLayout(false);
             this.toolStrip2.PerformLayout();
             ((System.ComponentModel.ISupportInitialize)(this.dataGridView1)).EndInit();
